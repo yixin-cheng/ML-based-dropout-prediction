@@ -1,0 +1,34 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+File: ADM-BAN-2001-0_Sem1_2_3_4_5_6_7_8_Var_grau
+Disciplinas used to build the series:
+{1: ['ADM1251', 'ADM1258', 'ADM1259', 'ADM1271', 'ADM1272', 'ADM1276', 'ADM1451', 'ADM1551', 'ADM1552', 'ADM1951', 'ADM1952', 'ADM1953', 'CRE1100', 'ECO1101', 'ECO1310', 'FIL0201', 'JUR1016', 'JUR1018', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203'], 2: ['ADM1251', 'ADM1256', 'ADM1258', 'ADM1259', 'ADM1271', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1951', 'ADM1952', 'ADM1953', 'ADM1954', 'CRE1100', 'ECO1101', 'ECO1310', 'ECO1411', 'FIL0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203'], 3: ['ADM1251', 'ADM1256', 'ADM1258', 'ADM1271', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1454', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1951', 'ADM1952', 'ADM1953', 'ADM1954', 'ADM1976', 'CRE1100', 'ECO1101', 'ECO1310', 'ECO1411', 'FIL0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203'], 4: ['ADM1251', 'ADM1256', 'ADM1258', 'ADM1271', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1353', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1454', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1952', 'ADM1953', 'ADM1954', 'ADM1973', 'ADM1976', 'CRE1100', 'CRE1141', 'ECO1101', 'ECO1310', 'ECO1411', 'FIL0201', 'HIS0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203'], 5: ['ADM1251', 'ADM1256', 'ADM1257', 'ADM1258', 'ADM1271', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1353', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1454', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1952', 'ADM1953', 'ADM1954', 'ADM1973', 'ADM1974', 'ADM1976', 'CRE1100', 'CRE1141', 'CRE1167', 'ECO1101', 'ECO1310', 'ECO1411', 'FIL0201', 'GEO0203', 'HIS0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203'], 6: ['ADM1256', 'ADM1257', 'ADM1258', 'ADM1271', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1353', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1454', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1953', 'ADM1954', 'ADM1973', 'ADM1974', 'ADM1976', 'CRE1100', 'CRE1141', 'CRE1167', 'ECO1310', 'ECO1411', 'FIL0201', 'GEO0203', 'HIS0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1128', 'MAT1129', 'SOC0201', 'SOC0203'], 7: ['ADM1256', 'ADM1257', 'ADM1258', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1353', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1454', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1954', 'ADM1973', 'ADM1974', 'ADM1976', 'CRE1100', 'CRE1141', 'CRE1167', 'ECO1310', 'ECO1411', 'FIL0201', 'GEO0203', 'HIS0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1128', 'MAT1129', 'SOC0201', 'SOC0203'], 8: ['ADM1256', 'ADM1257', 'ADM1258', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1353', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1454', 'ADM1552', 'ADM1651', 'ADM1954', 'ADM1973', 'ADM1974', 'ADM1976', 'CRE1141', 'CRE1167', 'ECO1310', 'ECO1411', 'GEO0203', 'HIS0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1128', 'MAT1129', 'SOC0201', 'SOC0203']}
+Number of rows in final series (Matriculas * Num Semestres): 
+4560
+Ejemplo de Serie Indice 1: 
+{'ADM1952_grau': -1, 'MAT1128_grau': -1, 'ADM1451_grau': -1, 'ADM1551_grau': -1, 'ADM1259_grau': -1, 'ADM1272_grau': -1, 'id': 'aluno1010', 'ECO1101_grau': -1, 'ADM1258_grau': -1, 'SOC0203_grau': -1, 'ADM1552_grau': -1, 'ADM1271_grau': -1, 'MAT1129_grau': -1, 'CRE1100_grau': 0.75, 'MAT1127_grau': -1, 'FIL0201_grau': -1, 'JUR1016_grau': -1, 'ECO1310_grau': -1, 'ADM1251_grau': -1, 'ADM1951_grau': -1, 'JUR1018_grau': -1, 'PSI1033_grau': -1, 'semestre': 1, 'LET1040_grau': -1, 'ADM1276_grau': -1, 'ADM1953_grau': -1, 'SOC0201_grau': -1}
+Number of Matriculas: 
+570
+
+Dimensiones antes del sampling: 
+[(0, 532), (1, 38)]
+Dimensiones despues del sampling: 
+[(0, 532), (1, 532)]
+RESULTADOS DE LOS MODELOS DE CLASIFICACION
+{'GaussianNB': {'Acc': 0.8626135569531798, 'Recall': 0.8721174004192871, 'Precision': 0.8606325684279588, 'F1': 0.8651206662775455}, 'SVC': {'Acc': 0.8870719776380154, 'Recall': 0.7741439552760307, 'Precision': 1.0, 'F1': 0.8715805471023386}, 'GradientBoostingClassifier': {'Acc': 0.9428895877009085, 'Recall': 0.9591544374563241, 'Precision': 0.9302084831213687, 'F1': 0.9413563600253785}, 'RandomForestClassifier': {'Acc': 0.9644479385045421, 'Recall': 0.9647449336128581, 'Precision': 0.9665752765752765, 'F1': 0.9621422738967368}}
+
+
+                                                importance
+ADM1452_grau__large_standard_deviation__r_0.05    0.015181
+ADM1256_grau__symmetry_looking__r_0.25            0.014210
+ADM1452_grau__symmetry_looking__r_0.55            0.013572
+ADM1452_grau__symmetry_looking__r_0.8             0.012645
+ADM1256_grau__symmetry_looking__r_0.9             0.012428
+ADM1452_grau__symmetry_looking__r_0.3             0.012421
+ADM1452_grau__symmetry_looking__r_0.9             0.011625
+ADM1256_grau__has_duplicate_max                   0.010454
+ADM1452_grau__maximum                             0.010313
+ADM1256_grau__symmetry_looking__r_0.7             0.010243
+
+
+

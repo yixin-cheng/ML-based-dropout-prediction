@@ -1,0 +1,18 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+File: ADM-BAN-2001-0_Sem1_2_Var_grau
+Disciplinas used to build the series:
+{1: ['ADM1251', 'ADM1258', 'ADM1259', 'ADM1271', 'ADM1272', 'ADM1276', 'ADM1451', 'ADM1551', 'ADM1552', 'ADM1951', 'ADM1952', 'ADM1953', 'CRE1100', 'ECO1101', 'ECO1310', 'FIL0201', 'JUR1016', 'JUR1018', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203'], 2: ['ADM1251', 'ADM1256', 'ADM1258', 'ADM1259', 'ADM1271', 'ADM1272', 'ADM1275', 'ADM1276', 'ADM1277', 'ADM1351', 'ADM1451', 'ADM1452', 'ADM1453', 'ADM1551', 'ADM1552', 'ADM1651', 'ADM1951', 'ADM1952', 'ADM1953', 'ADM1954', 'CRE1100', 'ECO1101', 'ECO1310', 'ECO1411', 'FIL0201', 'JUR1016', 'JUR1018', 'JUR1306', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203']}
+Number of rows in final series (Matriculas * Num Semestres): 
+1818
+Ejemplo de Serie Indice 1: 
+{'ADM1952_grau': -1, 'MAT1128_grau': -1, 'ADM1451_grau': -1, 'ADM1551_grau': -1, 'ADM1259_grau': -1, 'ADM1272_grau': -1, 'id': 'aluno10', 'ECO1101_grau': -1, 'ADM1258_grau': -1, 'SOC0203_grau': 0.0, 'ADM1552_grau': -1, 'ADM1271_grau': -1, 'MAT1129_grau': -1, 'CRE1100_grau': -1, 'MAT1127_grau': -1, 'FIL0201_grau': -1, 'JUR1016_grau': -1, 'ECO1310_grau': -1, 'ADM1251_grau': -1, 'ADM1951_grau': -1, 'JUR1018_grau': -1, 'PSI1033_grau': -1, 'semestre': 1, 'LET1040_grau': -1, 'ADM1276_grau': -1, 'ADM1953_grau': -1, 'SOC0201_grau': 0.0}
+Number of Matriculas: 
+909
+
+Dimensiones antes del sampling: 
+[(0, 765), (1, 144)]
+Dimensiones despues del sampling: 
+[(0, 765), (1, 765)]
+RESULTADOS DE LOS MODELOS DE CLASIFICACION
+{'GaussianNB': {'Acc': 0.676913875598086, 'Recall': 0.6967532467532468, 'Precision': 0.6794417520256628, 'F1': 0.6850737150019036}, 'lr': {'Acc': 0.7685663021189336, 'Recall': 0.7895933014354066, 'Precision': 0.7611200935232084, 'F1': 0.7737710416933663}, 'SVC': {'Acc': 0.7443438140806562, 'Recall': 0.7505468215994531, 'Precision': 0.7472894261390179, 'F1': 0.7444495825337016}, 'GradientBoostingClassifier': {'Acc': 0.8929767600820233, 'Recall': 0.8933526999316472, 'Precision': 0.8938156322145037, 'F1': 0.8825208334892649}, 'RandomForestClassifier': {'Acc': 0.9072881066302119, 'Recall': 0.9101503759398495, 'Precision': 0.9062502756386352, 'F1': 0.9029485180681751}}

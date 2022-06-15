@@ -1,0 +1,18 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+File: ADM-BAN-2001-0_Sem1_Var_grau
+Disciplinas used to build the series:
+{1: ['ADM1251', 'ADM1258', 'ADM1259', 'ADM1271', 'ADM1272', 'ADM1276', 'ADM1451', 'ADM1551', 'ADM1552', 'ADM1951', 'ADM1952', 'ADM1953', 'CRE1100', 'ECO1101', 'ECO1310', 'FIL0201', 'JUR1016', 'JUR1018', 'LET1040', 'MAT1127', 'MAT1128', 'MAT1129', 'PSI1033', 'SOC0201', 'SOC0203']}
+Number of rows in final series (Matriculas * Num Semestres): 
+976
+Ejemplo de Serie Indice 1: 
+{'ADM1952_grau': -1, 'MAT1128_grau': -1, 'ADM1451_grau': -1, 'ADM1551_grau': -1, 'ADM1259_grau': -1, 'ADM1272_grau': -1, 'id': 'aluno10', 'ECO1101_grau': -1, 'ADM1258_grau': -1, 'SOC0203_grau': 0.0, 'ADM1552_grau': -1, 'ADM1271_grau': -1, 'MAT1129_grau': -1, 'CRE1100_grau': -1, 'MAT1127_grau': -1, 'FIL0201_grau': -1, 'JUR1016_grau': -1, 'ECO1310_grau': -1, 'ADM1251_grau': -1, 'ADM1951_grau': -1, 'JUR1018_grau': -1, 'PSI1033_grau': -1, 'semestre': 1, 'LET1040_grau': -1, 'ADM1276_grau': -1, 'ADM1953_grau': -1, 'SOC0201_grau': 0.0}
+Number of Matriculas: 
+976
+
+Dimensiones antes del sampling: 
+[(0, 790), (1, 186)]
+Dimensiones despues del sampling: 
+[(0, 790), (1, 790)]
+RESULTADOS DE LOS MODELOS DE CLASIFICACION
+{'GaussianNB': {'Acc': 0.5974683544303797, 'Recall': 0.860759493670886, 'Precision': 0.5671253092193671, 'F1': 0.6824635437318889}, 'lr': {'Acc': 0.6949367088607594, 'Recall': 0.6531645569620254, 'Precision': 0.7180221099980016, 'F1': 0.6825528404176101}, 'SVC': {'Acc': 0.6924050632911392, 'Recall': 0.6265822784810127, 'Precision': 0.7290662453055143, 'F1': 0.6720966499864829}, 'GradientBoostingClassifier': {'Acc': 0.8398734177215189, 'Recall': 0.8316455696202532, 'Precision': 0.8470277472184519, 'F1': 0.8366142719076528}, 'RandomForestClassifier': {'Acc': 0.8284810126582277, 'Recall': 0.8240506329113924, 'Precision': 0.8334664886626972, 'F1': 0.8266111968039678}}
